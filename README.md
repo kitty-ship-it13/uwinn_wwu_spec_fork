@@ -1,3 +1,16 @@
+****************************************ACKNOWLEDGEMENTS********************************************
+VISOR is designed and developed orginally by Western Washington University and its collaborators
+
+Original repo:
+https://github.com/MillionConcepts/wwu_spec
+
+
+This project aims to build upon the existing open-source framework to better suit the need of the University of Winnipeg 
+
+All Credit for the orignal code, achitecture and concept remians credited to the original authors. 
+
+
+****************************************************************************************************
 # VISOR: the Western Washington University Visible-Infrared Spectral Browser 
 
 *a marslab project*
